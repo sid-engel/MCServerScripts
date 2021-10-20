@@ -1,7 +1,9 @@
 #!/usr/bin/env bash
 
+# This script can easilly be adapted to work with different server managers. AMP, Multicraft, Pterodactyl, etc...
+
 # Variable Declaration
-# These are here to making executing the script on different Instances easier...
+# These are here to making executing the script on different Instances easier and to allow you to change the name of the world folder...
 InstanceName='SidsTestServer'
 InstanceDirectory='/home/amp/.ampdata/instances/SidsTestServer/Minecraft'
 ShortSleep='sleep 3'
