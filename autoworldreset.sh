@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 # This script can easilly be adapted to work with different server managers. AMP, Multicraft, Pterodactyl, etc...
+# To set up automation make it a cronjob. Be sure to dry-run it a few times to make sure that it's functioning.
 
 # Variable Declaration
 # These are here to making executing the script on different Instances easier and to allow you to change the name of the world folder...
